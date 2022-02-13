@@ -166,7 +166,7 @@ function Neod3Renderer() {
             'stroke-color' : 'black',
             'fill' : 'black',
             'x' : 3.2*r,
-            'font-size' : "12px"
+            'font-size' : "5px"
           });
           text.text(function(node) {
             var label = styles[node].selector;
